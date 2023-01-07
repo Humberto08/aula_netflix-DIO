@@ -5,7 +5,10 @@ Projeto de criação do clone do Netflix em conjunto com a DIO.
 
 ## Stack utilizada
 
-**Front-end:** HTML5, CSS3 e JavaScript.
+**Front-end:** 
+- HTML5 
+- CSS3 
+-  JavaScript.
 
 
 
@@ -17,7 +20,7 @@ Projeto de criação do clone do Netflix em conjunto com a DIO.
 
 ## Demonstração
 
-https://clone-netflix-blond.vercel.app/
+- https://clone-netflix-blond.vercel.app/
 
 
 
