@@ -15,3 +15,10 @@ Projeto de criação do clone do Netflix em conjunto com a DIO.
 - [@humberto08](https://www.github.com/octokatherine)
 
 
+## Demonstração
+
+https://clone-netflix-blond.vercel.app/
+
+
+
+
