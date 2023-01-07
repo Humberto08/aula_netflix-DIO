@@ -12,7 +12,7 @@ Projeto de criação do clone do Netflix em conjunto com a DIO.
 
 ## Autores
 
-- [@humberto08](https://www.github.com/octokatherine)
+- [Humberto Luciano](https://www.github.com/humberto08)
 
 
 ## Demonstração
